@@ -22,7 +22,11 @@
   </dependencies>
   
   <build>
-    <finalName>JenkinsWar</finalName>
+    <finalName>Amit</finalName>
   </build>
+
+  <!-- <build>
+    <finalName>JenkinsWar</finalName>
+  </build> -->
   
 </project>
